@@ -25,6 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simon-busch&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="simon-busch" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simon-busch&show_icons=true&theme=dark&hide_border=true&locale=en" alt="simon-busch" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=simon-busch&theme=dark" alt="simon-busch" /></p>
 
