@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Simon-Busch](https://github.com/Simon-Busch)
+- 📫 Reach me on **simon.busch@live.fr**
 
-- 📫 How to reach me **simon.busch@live.fr**
-
-- 📄 Know about my experiences [https://res.cloudinary.com/dgllg4r2g/image/upload/v1609524529/Simon_Busch_resume_wwt1ns.png](https://res.cloudinary.com/dgllg4r2g/image/upload/v1609524529/Simon_Busch_resume_wwt1ns.png)
+- 📄 Find my resume here : [https://res.cloudinary.com/dgllg4r2g/image/upload/v1609524529/Simon_Busch_resume_wwt1ns.png](https://res.cloudinary.com/dgllg4r2g/image/upload/v1609524529/Simon_Busch_resume_wwt1ns.png)
 
 - ⚡ Fun fact **I love sport as much as coding !**
 
