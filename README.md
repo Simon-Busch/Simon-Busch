@@ -3,9 +3,11 @@
 
 - 🎓 I'm a Le Wagon Alumni [https://www.lewagon.com/lausanne](https://www.lewagon.com/lausanne)
 
-- 🌱 I’m currently learning **React**
+- ⚛ I’m currently learning **React**
 
 - 📫 Reach me on **simon.busch@live.fr**
+
+- 🧑🏼‍💻 My portfolio [https://simonbusch-portfolio.herokuapp.com/](https://simonbusch-portfolio.herokuapp.com/)
 
 - 📄 Find my resume here : [https://res.cloudinary.com/dgllg4r2g/image/upload/v1609524529/Simon_Busch_resume_wwt1ns.png](https://res.cloudinary.com/dgllg4r2g/image/upload/v1609524529/Simon_Busch_resume_wwt1ns.png)
 
