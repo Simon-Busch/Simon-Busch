@@ -11,8 +11,6 @@
 
 - 📄 Find my resume here : [https://res.cloudinary.com/dgllg4r2g/image/upload/v1609524529/Simon_Busch_resume_wwt1ns.png](https://res.cloudinary.com/dgllg4r2g/image/upload/v1609524529/Simon_Busch_resume_wwt1ns.png)
 
-- ⚡ Fun fact **I love sport as much as coding !**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simonbusch89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="simonbusch89" height="30" width="40" /></a>
