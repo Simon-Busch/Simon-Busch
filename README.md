@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋, I'm Simon</h2>
-<h4 align="left">A curious full stack developer</h4>
-
-- 🎓 I'm a Le Wagon Alumni [https://www.lewagon.com/lausanne](https://www.lewagon.com/lausanne)
+<h4 align="left">A curious and driven full stack developer</h4>
 
 - ⚛ I’m currently learning **React**
 
@@ -10,6 +8,8 @@
 - 🧑🏼‍💻 My portfolio [https://simonbusch-portfolio.herokuapp.com/](https://simonbusch-portfolio.herokuapp.com/)
 
 - 📄 Find my resume here : [https://res.cloudinary.com/dgllg4r2g/image/upload/v1609524529/Simon_Busch_resume_wwt1ns.png](https://res.cloudinary.com/dgllg4r2g/image/upload/v1609524529/Simon_Busch_resume_wwt1ns.png)
+
+- 🎓 I'm a Le Wagon Alumni [https://www.lewagon.com/lausanne](https://www.lewagon.com/lausanne)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
