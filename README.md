@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Simon</h2>
 <h4 align="left">A curious and driven full stack developer</h4>
 
-- 🚀 I’m currently learning on a  **Solidity**
+- 🚀 I’m currently learning on a  **Solidity** and **Typescript**
 
 - 📫 Reach me on **simon.busch@live.fr**
 
