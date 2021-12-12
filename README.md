@@ -1,13 +1,9 @@
 <h2 align="left">Hi 👋, I'm Simon</h2>
-<h4 align="left">A curious and driven full stack developer</h4>
+<h4 align="left">A curious and driven Fullstack Javascript Developer </h4>
 
 - 🚀 I’m currently learning on a  **Solidity**
 
 - 📫 Reach me on **simon.busch@live.fr**
-
-- 🧑🏼‍💻 My portfolio [https://simonbusch-portfolio.herokuapp.com/](https://simonbusch-portfolio.herokuapp.com/)
-
-- 🎓 I'm a Le Wagon Alumni [https://www.lewagon.com/lausanne](https://www.lewagon.com/lausanne)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
