@@ -5,10 +5,12 @@
 
 - 📫 Reach me on **simon.busch@live.fr**
 
+- 👀 Read me on <a href="https://medium.com/@simonbusch" target="blank">**Medium**</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simonbusch89" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="simonbusch89" height="30" width="40" /></a>
-<a href="https://fb.com/simon.busch1" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="simon.busch1" height="30" width="40" /></a><a href="https://gitlab.com/Simon-Busch" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Simon-Busch" height="30" width="40"/></a>
+<a href="https://fb.com/simon.busch1" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="simon.busch1" height="30" width="40" /></a><a href="https://gitlab.com/Simon-Busch" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Simon-Busch-Github" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Learn solidity with me:</h3>
