@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Simon</h2>
 <h4 align="left">A curious and driven Fullstack Javascript Developer </h4>
 
-- 🚀 I’m currently learning **Solidity** and **Typescript** 
+- 🚀 I’m currently discovering **Rust** and NEAR Blockchain
 
 - 📫 Reach me on **simon.busch@live.fr**
 
