@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Simon</h2>
 <h4 align="left">A curious and driven Fullstack Javascript Developer </h4>
 
-- 🚀 I’m currently learning **Solidity**, **Gatsby** and **GraphQl
+- 🚀 I’m currently learning **Solidity**, **Gatsby** and **GraphQl**
 
 - 📫 Reach me on **simon.busch@live.fr**
 
