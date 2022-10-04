@@ -9,7 +9,7 @@
 
 - **Ethernaut** challenges 18/26 ✅
 
-- **Capture the Ether** challenges 3000 points ✅
+- **Capture the Ether** challenges 3500 points ✅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
