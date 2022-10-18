@@ -7,7 +7,7 @@
 
 - 👀 Read me on <a href="https://medium.com/@simonbusch" target="blank">**Medium**</a>
 
-- **Ethernaut** challenges 25/27  🏗
+- **Ethernaut** challenges 26/27  🏗
 
 - **Capture the Ether** challenges 3500 points  🏗
 
