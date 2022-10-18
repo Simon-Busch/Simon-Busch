@@ -7,11 +7,11 @@
 
 - 👀 Read me on <a href="https://medium.com/@simonbusch" target="blank">**Medium**</a>
 
-- **Ethernaut** challenges 25/26  🏗
+- **Ethernaut** challenges 25/27  🏗
 
 - **Capture the Ether** challenges 3500 points  🏗
 
-- **EVM Puzzles** 6/10 🏗
+- **EVM Puzzles** 8/10 🏗
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
