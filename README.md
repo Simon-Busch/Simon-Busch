@@ -9,9 +9,12 @@
 
 - **Ethernaut** challenges 27/27  ✅
 
-- **Capture the Ether** challenges 3500 points  🏗
+- **Damn Vulnerable DeFi** challenges 1/13  🏗
 
 - **EVM Puzzles** 10/10 ✅
+
+- **Capture the Ether** challenges 3500 points  🏗
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
