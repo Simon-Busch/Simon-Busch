@@ -9,7 +9,7 @@
 
 - **Ethernaut** challenges 27/27  ✅
 
-- **Damn Vulnerable DeFi** challenges 7/13  🏗
+- **Damn Vulnerable DeFi** challenges 8/13  🏗
 
 - **EVM Puzzles** 10/10 ✅
 
