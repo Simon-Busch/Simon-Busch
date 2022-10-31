@@ -9,9 +9,11 @@
 
 - **Ethernaut** challenges 27/27  ✅
 
+- **EVM Puzzles** 10/10 ✅
+
 - **Damn Vulnerable DeFi** challenges 8/13  🏗
 
-- **EVM Puzzles** 10/10 ✅
+- **Smart contract engineer** 10.000 points 🏗
 
 - **Capture the Ether** challenges 3500 points  🏗
 
