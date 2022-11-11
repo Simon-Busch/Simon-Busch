@@ -26,7 +26,7 @@
 
 <h3 align="left">Learn solidity with me:</h3>
 <p align="left">
-<a href="https://laser-shamrock-96a.notion.site/Solidity-c507d593ae5949fcb6ae57469859e715" target="blank"><p>Check my notion 🔥</p>  </a>
+<a href="https://laser-shamrock-96a.notion.site/Solidity-c507d593ae5949fcb6ae57469859e715" target="_blank"><p>Check my notion 🔥</p>  </a>
 </p>
    
    
