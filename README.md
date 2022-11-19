@@ -15,7 +15,7 @@
 
 - **Smart Contract Engineer** 21.100 points 🏗
 
-- **Capture the Ether** challenges 3500 points  🏗
+- **Capture the Ether** challenges 12/20 🏗
 
 
 <h3 align="left">Connect with me:</h3>
