@@ -17,7 +17,7 @@
 
 - **Capture the Ether** challenges 12/20 🏗
 
-- **Alchemy Ethereum developer bootcamp** In progress 🚧 [Week7/7]
+- **Alchemy Ethereum developer bootcamp** ✅
 
 
 <h3 align="left">Connect with me:</h3>
