@@ -13,7 +13,7 @@
 
 - **Damn Vulnerable DeFi** challenges 9/15  🏗
 
-- **Smart Contract Engineer** 23.700 points 🏗
+- **Smart Contract Engineer** 24.100 points 🏗
 
 - **Capture the Ether** challenges 12/20 🏗
 
