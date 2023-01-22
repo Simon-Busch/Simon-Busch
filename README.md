@@ -11,7 +11,7 @@
 
 - **EVM Puzzles** 10/10 ✅
 
-- **Damn Vulnerable DeFi** challenges 9/13  🏗
+- **Damn Vulnerable DeFi** challenges 9/15  🏗
 
 - **Smart Contract Engineer** 23.700 points 🏗
 
