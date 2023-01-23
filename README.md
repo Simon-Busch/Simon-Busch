@@ -11,13 +11,13 @@
 
 - **EVM Puzzles** 10/10 ✅
 
+- **Alchemy Ethereum developer bootcamp** ✅
+
 - **Damn Vulnerable DeFi** challenges 9/15  🏗
 
-- **Smart Contract Engineer** 24.100 points 🏗
+- **Smart Contract Engineer** 24.300 points 🏗
 
 - **Capture the Ether** challenges 12/20 🏗
-
-- **Alchemy Ethereum developer bootcamp** ✅
 
 
 <h3 align="left">Connect with me:</h3>
