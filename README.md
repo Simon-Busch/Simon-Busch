@@ -15,9 +15,9 @@
 
 - **Damn Vulnerable DeFi** challenges 9/15  🏗
 
-- **Smart Contract Engineer** 24.300 points 🏗
-
 - **Capture the Ether** challenges 16/20 🏗
+
+- **Eko 2022** challenges 0/12 🏗
 
 
 <h3 align="left">Connect with me:</h3>
