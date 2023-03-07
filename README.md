@@ -7,6 +7,7 @@
 
 - 👀 Read me on <a href="https://medium.com/@simonbusch" target="blank">**Medium**</a>
 
+Playing around with Web3 Security:
 - **Ethernaut** challenges 27/27  ✅
 
 - **EVM Puzzles** 10/10 ✅
@@ -16,9 +17,6 @@
 - **Damn Vulnerable DeFi** challenges 9/15  🏗
 
 - **Capture the Ether** challenges 16/20 🏗
-
-- **Eko 2022** challenges 0/12 🏗
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
