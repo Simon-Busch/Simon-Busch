@@ -38,7 +38,6 @@ Playing around with Web3 Security:
    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust">
    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL">
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" alt="Heroku">
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify">
    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js">
    <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&amp;logo=gatsby&amp;logoColor=white" alt="Gatsby">
