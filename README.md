@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Simon</h2>
 <h4 align="left">A curious and driven Fullstack Typescript Developer </h4>
 
-- 🚀 I’m currently learning **Rust**
+- 🚀 I’m currently learning **Solidity and web3 security**
 
 - 📫 Reach me on **simon.busch@live.fr**
 
