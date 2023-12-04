@@ -14,9 +14,7 @@ Playing around with Web3 Security:
 
 - **Alchemy Ethereum developer bootcamp** ✅
 
-- **Damn Vulnerable DeFi** challenges 9/15  🏗
-
-- **Capture the Ether** challenges 16/20 🏗
+- **SCH** Academy 🏗
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
