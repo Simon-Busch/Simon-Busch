@@ -20,14 +20,7 @@ Playing around with Web3 Security:
 <p align="left">
 <a href="https://linkedin.com/in/simonbusch89" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="simonbusch89" height="30" width="40" /></a>
 <a href="https://gitlab.com/Simon-Busch" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Simon-Busch-Github" height="30" width="40"/></a>
-</p>
-
-<h3 align="left">Learn solidity with me:</h3>
-<p align="left">
-<a href="https://laser-shamrock-96a.notion.site/Solidity-c507d593ae5949fcb6ae57469859e715" target="_blank">Check my notion 🔥</a>
-</p>
-   
-   
+</p>  
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
