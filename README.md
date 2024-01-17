@@ -19,7 +19,6 @@ Playing around with Web3 Security:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simonbusch89" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="simonbusch89" height="30" width="40" /></a>
-<a href="https://gitlab.com/Simon-Busch" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Simon-Busch-Github" height="30" width="40"/></a>
 </p>  
 
 <h3 align="left">Languages and Tools:</h3>
