@@ -36,6 +36,8 @@ Playing around with Web3 Security:
    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
 <div/>
+
+<img src="https://raw.githubusercontent.com/Simon-Busch/Simon-Busch/output/snake.svg" alt="Snake animation" />
    
 <br/>
 <br/>
