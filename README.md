@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Simon</h2>
-<h4 align="left">A curious and driven Fullstack Typescript Developer </h4>
+<h4 align="left">Lead software engineer <a href="https://github.com/Recon-Fuzz" target="blank">@Recon</a> </h4>
 
 - 🚀 I’m currently learning **Go**
 
