@@ -1,18 +1,13 @@
 <h2 align="left">Hi 👋, I'm Simon</h2>
-<h4 align="left">Lead software engineer <a href="https://github.com/Recon-Fuzz" target="blank">@Recon</a> </h4>
+<h4 align="left">Lead software engineer <a href="https://github.com/Recon-Fuzz" target="blank">@Recon</a>, aspiring SR </h4>
 
-- 🚀 I’m currently building a **trading bot** in go
+- 🚀 I’m currently building on [safeproofing smart contract invariant](https://github.com/Recon-Fuzz) 
 
 - 📫 Reach me on **simon.busch@live.fr**
 
 - 👀 Read me on <a href="https://medium.com/@simonbusch" target="blank">**Medium**</a>
 
-Playing around with Web3 Security:
-- **Ethernaut** challenges 27/27  ✅
-
-- **EVM Puzzles** 10/10 ✅
-
-- **Alchemy Ethereum developer bootcamp** ✅
+Building tools to make web3 safer
 
 
 <h3 align="left">💻 Tech Stack</h3>
