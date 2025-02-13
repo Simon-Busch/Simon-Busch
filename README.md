@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Simon</h2>
-<h4 align="left">Lead software engineer <a href="https://github.com/Recon-Fuzz" target="blank">@Recon</a>, fuzzing engineer, aspiring Security Researcher </h4>
+<h4 align="left">Lead software engineer <a href="https://github.com/Recon-Fuzz" target="blank">@Recon</a>, fuzzing engineer</h4>
 
 - 🚀 I’m currently building on [safeproofing smart contract invariant](https://github.com/Recon-Fuzz) 
 
