@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Simon</h2>
-<h4 align="left">Lead software engineer <a href="https://github.com/Recon-Fuzz" target="blank">@Recon</a>, fuzzing engineer</h4>
+<h4 align="left">Founder && CEO of <a href="https://pumpsonar.xyz/" target="blank">@PumpSonar</a></h4>
 
-- 🚀 I’m currently building on [safeproofing smart contract invariant](https://github.com/Recon-Fuzz) 
+- 🚀 I’m currently building the [future of social trading](https://github.com/PumpSonar) 
 
 - 📫 Reach me on **simon.busch@live.fr**
 
