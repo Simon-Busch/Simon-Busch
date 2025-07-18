@@ -7,7 +7,7 @@
 
 - 👀 Read me on <a href="https://medium.com/@simonbusch" target="blank">**Medium**</a>
 
-Building tools to make web3 safer
+- 👀 Check PumpSonar on <a href="https://x.com/PumpSonar" target="blank">**Twitter / X**</a>
 
 
 <h3 align="left">💻 Tech Stack</h3>
