@@ -1,13 +1,13 @@
 <h2 align="left">Hi 👋, I'm Simon</h2>
-<h4 align="left">Founder && CEO of <a href="https://pumpsonar.xyz/" target="blank">@PumpSonar</a></h4>
+<h4 align="left">Founder && CEO of <a href="https://topblast.pro/" target="blank">TopBlast</a></h4>
 
-- 🚀 I’m currently building the [future of social trading](https://github.com/PumpSonar) 
+- 🚀 I’m currently building the [future of trading](https://topblast.pro/) 
 
 - 📫 Reach me on **simon.busch@live.fr**
 
 - 👀 Read me on <a href="https://medium.com/@simonbusch" target="blank">**Medium**</a>
 
-- 👀 Check PumpSonar on <a href="https://x.com/PumpSonar" target="blank">**Twitter / X**</a>
+- 👀 Check TopBlast on <a href="https://x.com/topblastpro" target="blank">**Twitter / X**</a>
 
 
 <h3 align="left">💻 Tech Stack</h3>
