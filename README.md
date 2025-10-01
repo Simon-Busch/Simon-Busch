@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Simon</h2>
-<h4 align="left">Founder && CEO of <a href="https://topblast.pro/" target="blank">TopBlast</a></h4>
+<h4 align="left">Founder && CEO of <a href="https://hyperblitz.trade/ target="blank">Hyperblitz</a></h4>
 
-- 🚀 I’m currently building the [future of trading](https://topblast.pro/) 
+- 🚀 I’m currently building the [future of trading](https://hyperblitz.trade/) 
 
 - 📫 Reach me on **simon.busch@live.fr**
 
