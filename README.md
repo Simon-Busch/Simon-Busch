@@ -7,9 +7,6 @@
 
 - 👀 Read me on <a href="https://medium.com/@simonbusch" target="blank">**Medium**</a>
 
-- 👀 Check TopBlast on <a href="https://x.com/topblastpro" target="blank">**Twitter / X**</a>
-
-
 <h3 align="left">💻 Tech Stack</h3>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
