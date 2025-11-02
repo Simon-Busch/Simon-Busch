@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Simon</h2>
-<h4 align="left">Founder && CEO of <a href="https://hyperblitz.trade/ target="blank">Hyperblitz, hamering the next generation of AI models for Quant trading</a></h4>
+<h4 align="left">Founder && CEO of <a href="https://hyperblitz.trade/ target="blank">Hyperblitz</a>, hamering the next generation of AI models for Quant trading</h4>
 
 - 🚀 I’m currently building the [future of trading](https://hyperblitz.trade/) 
 
