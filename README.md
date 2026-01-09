@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI+for+Quant+Trading;Founder+%26+CEO+%40+Hyperblitz;Shipping+ML+Models+to+Production)](https://hyperblitz.trade)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI+for+Quant+Trading;Founder+%26+CEO+%40+Hyperblitz;Building+Quant+ML+Models)](https://hyperblitz.trade)
 
 </div>
 
