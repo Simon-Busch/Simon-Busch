@@ -46,18 +46,6 @@ Currently: deploying quantitative models with rigorous backtesting across crypto
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Simon-Busch&theme=tokyonight" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Simon-Busch&theme=tokyonight&utcOffset=1" alt="Productive Time" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simon-Busch&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-
-</div>
-
----
-
 ### Connect
 
 <div align="center">
