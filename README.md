@@ -11,7 +11,7 @@
 
 Founder & CEO of **[Hyperblitz](https://hyperblitz.trade)** — designing ML systems that predict market microstructure. I build models that actually ship to production, not just notebooks that sit in repos.
 
-Currently: deploying quantitative models with rigorous backtesting across crypto markets.
+Currently: deploying quantitative models and trading bots with rigorous backtesting across crypto markets.
 
 
 ---
