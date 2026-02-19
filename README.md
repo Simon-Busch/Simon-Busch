@@ -1,15 +1,13 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI+for+Quant+Trading;Founder+%26+CEO+%40+Hyperblitz;Building+Quant+ML+Models)](https://hyperblitz.trade)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Engineering+Low-Latency+Trading+Systems;Founder+%26+CEO+%40+Hyperblitz;Crypto+Perps+%7C+Order+Flow+%7C+Automation)](https://hyperblitz.trade)
 </div>
 
 ---
 
 ### About
-
-Founder & CEO of **[Hyperblitz](https://hyperblitz.trade)** — engineering low-latency trading systems and ML pipelines that execute autonomously, 24/7. Orderbook ingestion, model inference, execution, all production-grade, all automated.
+Founder & CEO of **[Hyperblitz](https://hyperblitz.trade)** — building high-performance, fully automated trading infrastructure for crypto perpetual futures. Orderbook ingestion, order flow analysis, execution engines, all production-grade, running 24/7.
 
 
 ---
