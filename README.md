@@ -7,7 +7,7 @@
 ---
 
 ### About
-Founder & CEO of **[Hyperblitz](https://hyperblitz.trade)** — building high-performance, fully automated trading infrastructure for crypto perpetual futures. Orderbook ingestion, order flow analysis, execution engines, all production-grade, running 24/7.
+Founder & CEO of **[Topblast](https://topblast.pro/)** — building high-performance, fully automated trading infrastructure for crypto perpetual futures. Orderbook ingestion, order flow analysis, execution engines, all production-grade, running 24/7.
 
 
 ---
