@@ -70,7 +70,7 @@ More on **[simon-busch.xyz](https://simon-busch.xyz)** →
 [![Portfolio](https://img.shields.io/badge/simon--busch.xyz-3EE68B?style=for-the-badge&logo=googlechrome&logoColor=black)](https://simon-busch.xyz)
 [![Twitter](https://img.shields.io/badge/@__0xsi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_0xsi)
 [![Telegram](https://img.shields.io/badge/@Oxsi__0-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Oxsi_0)
-[![Email](https://img.shields.io/badge/0xsi@hyperblitz.trade-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0xsi@topblast.pro)
+[![Email](https://img.shields.io/badge/0xsi@topblast.pro-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0xsi@topblast.pro)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@simonbusch)
 
 </div>
