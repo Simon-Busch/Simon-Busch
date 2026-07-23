@@ -25,7 +25,7 @@ Also building in the open — Go SDKs, terminal dashboards, and AI/RAG tooling.
 |---|---|
 | **[MonitoBlitz](https://github.com/Simon-Busch/MonitoBlitz)** | Terminal dashboard (Go · Bubble Tea) tracking prediction markets across venues — matches markets, computes spread, alerts on divergence |
 | **[hyperliquid-go](https://github.com/Simon-Busch/hyperliquid-go)** | Idiomatic zero-dependency Go SDK for Hyperliquid — trading, WebSocket subscriptions, native EIP-712 signing |
-| **ObsiRag** *(open-sourcing soon)* | Graph-aware RAG over an Obsidian vault as an MCP server — hybrid retrieval + graph traversal, grounded cited answers, honest evals |
+| **[ObsiRag](https://github.com/Simon-Busch/obsiRag)** | Graph-aware RAG over an Obsidian vault as an MCP server — hybrid retrieval + graph traversal, grounded cited answers, honest evals |
 | **[github-assistant](https://github.com/Simon-Busch/github-assistant)** | Rust CLI automating day-to-day GitHub workflows |
 
 More on **[simon-busch.xyz](https://simon-busch.xyz)** →
