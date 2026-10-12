@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3EE68B&center=true&vCenter=true&width=800&lines=Building+Systems+0%E2%86%921+%E2%80%94+Idea+to+Production;Founder+%40+TopBlast+%7C+Autonomous+Systems+24%2F7;Real-Time+Backends+%7C+AI+Tooling+%7C+Products)](https://simon-busch.xyz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3EE68B&center=true&vCenter=true&width=800&lines=Building+Systems+0%E2%86%921+%E2%80%94+Idea+to+Production;Founder+%40+Kliva+%7C+Autonomous+Systems+24%2F7;Real-Time+Backends+%7C+AI+Tooling+%7C+Products)](https://simon-busch.xyz)
 
 </div>
 
@@ -10,7 +10,7 @@
 ### About
 
 Senior software engineer who takes systems from **zero to production — and runs them**.
-Currently founder of **[TopBlast](https://topblast.pro/)**, where I design, build, and operate
+Currently founder of **[Kliva](https://kliva.run/)**, where I design, build, and operate
 fully autonomous trading systems solo: real-time ingestion, execution engines, risk
 monitoring, live 24/7. Before that: engineering lead and technical product owner roles,
 shipping tools now used by hundreds of engineers.
