@@ -10,8 +10,10 @@
 ### About
 
 Senior software engineer who takes systems from **zero to production — and runs them**.
-Currently founder of **[Kliva](https://kliva.run/)**, where I design, build, and operate
-fully autonomous trading systems solo: real-time ingestion, execution engines, risk
+Currently founder of **[Kliva](https://kliva.run/)**, 
+
+Previous I built **[TopBlast](https://topblast.pro/)**, and operate
+fully autonomous trading systems : real-time ingestion, execution engines, risk
 monitoring, live 24/7. Before that: engineering lead and technical product owner roles,
 shipping tools now used by hundreds of engineers.
 
